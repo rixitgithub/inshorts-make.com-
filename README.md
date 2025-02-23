@@ -30,27 +30,3 @@
 ![Screenshot 1](1.png)  
 ![Screenshot 2](2.png)  
 ![Screenshot 3](3.png)  
-
-## Installation  
-1. Clone the repository:  
-   ```sh  
-   git clone https://github.com/yourusername/inshorts.git  
-   ``` 
-2. Navigate to the project directory:  
-   ```sh  
-   cd inshorts  
-   ```  
-3. Install dependencies:  
-   ```sh  
-   npm install  
-   ```  
-4. Start the application:  
-   ```sh  
-   npm start  
-   ```  
-
-## Contributing  
-Feel free to fork this repository and submit pull requests with improvements.  
-
-## License  
-This project is licensed under the MIT License.
